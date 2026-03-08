@@ -37,7 +37,8 @@ MANIFEST
 !EU_DRIVE.xml
 
 # Salidas del pipeline
-data/raw/
+data/raw/*
+!data/raw/EU_DRIVE.xml
 data/normalizado/
 pipeline/monitoreo/metricas/
 logs/
