@@ -34,6 +34,7 @@ MANIFEST
 *.json
 *.xlsx
 !requirements.txt
+!EU_DRIVE.xml
 
 # Salidas del pipeline
 data/raw/
