@@ -1,0 +1,10 @@
+requests
+python-dotenv
+urllib3
+sqlalchemy
+pandas
+pycountry
+openpyxl
+numpy
+playwright
+psycopg2-binary

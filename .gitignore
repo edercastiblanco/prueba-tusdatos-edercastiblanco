@@ -33,6 +33,7 @@ MANIFEST
 *.csv
 *.json
 *.xlsx
+!requirements.txt
 
 # Salidas del pipeline
 data/raw/
